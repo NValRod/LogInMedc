@@ -301,7 +301,6 @@ input{
 }
 
 
-
 @media only screen and (max-width: 600px ) {
   .form-text_1{
     color: red;
@@ -314,5 +313,12 @@ input{
     margin-bottom: -1rem;
     margin-top: 1.2rem;
     margin-left: 7rem;
+  }
+}
+
+@media screen and (min-width:305px) and (max-width:400px){
+  button{
+    height: 1.3em;
+    font-size: 1.8em;
   }
 }

@@ -1,0 +1,17 @@
+:root {
+  --morado:#764d95;
+  --fontButton:font-family: 'Teko', sans-serif;
+}
+
+html{
+  box-sizing: border-box;
+}
+
+*, *:before, *:after{
+  box-sizing: inherit;
+}
+
+.linkSalir{
+  margin-left: 44rem;
+  text-decoration: none;
+}

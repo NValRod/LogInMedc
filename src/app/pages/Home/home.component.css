@@ -11,99 +11,6 @@ html{
   box-sizing: inherit;
 }
 
-/* CSS para el segundo dashboard */
-/* .navBar{
-  background-color:var(--morado);
-  height: 3rem;
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  color: aliceblue;
-  justify-content: center;
-  align-items: center;
-}
-
-.linkSalir{
-  color:aliceblue;
-  font-size: 2rem;
-  margin-left: 50rem;
-  display: flex;
-}
-
-.containerDashboard{
-  display: flex;
-
-}
-
-.imgDashboard{
-  width: 80rem;
-  height: 13rem;
-}
-
-.containerButton{
-  margin-left: 45rem;
-  margin-top: -5rem;
-  font-family: 'Teko', sans-serif;
-}
-
-.logoDasboard{
-  height: 10rem;
-  width: 10rem;
-  margin-left: 5rem;
-  margin-top: -15rem;
-}
-
-.buttonDashboard{
-  width: 10rem;
-  height: 3rem;
-  color: gray;
-  margin-right: 1rem;
-  border-radius: 10px;
-  border: none;
-  font-size: 1.8rem;
-  font-weight: 400;
-}
-
-.buttonDashboard:hover{
-  background-color: gray;
-  color: whitesmoke;
-}
-
-.containerInfo{
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1rem;
-  margin-left: 1.5rem;
-  margin-right: 1rem;
-  margin-top: 2rem;
-}
-
-.textoDashboard{
-  font-size: 1.3;
-  text-align: center;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  margin-top: 1rem;
-}
-
-.imgPrueba{
-  width: 18.5rem;
-  height: 12rem;
-  border-radius: 10px;
-}
-
-.dropdown-item{
-  text-align: center;
-  font-size: 1.6rem;
-  color: gray;
-}
-
-.dropdown-item:hover{
-  background-color: gray;
-  color: whitesmoke;
-} */
-
-
 .container-dash{
   display: flex;
   margin-top: 2rem;
@@ -123,5 +30,11 @@ html{
   margin-left: 5rem;
   border-radius: 10px;
   padding: 2rem;
-
+}
+.btnCS{
+  border-radius: 10px;
+  background-color: #764d95;
+  color: whitesmoke;
+  height: 3em;
+  border: 1px solid var(--grisClaro);
 }

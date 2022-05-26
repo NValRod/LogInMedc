@@ -352,7 +352,7 @@ button{
   padding: 1rem;
   background-color: var(--grisClaro);
   border-radius: 60px;
-  height: 46rem;
+  height: 45rem;
   width: 25rem;
   z-index: 2;
 }
